@@ -1,7 +1,7 @@
 # Android Studio引用github第三方库完成美观的侧滑菜单
 
 
-
+![在这里插入图片描述](https://github.com/kurumi2501314/demo/动态展示.gif）
 
 欢迎下载
 https://github.com/kurumi2501314/demo/blob/master/demo.apk
