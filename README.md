@@ -1,10 +1,6 @@
 #Android Studio引用github第三方库完成美观的侧滑菜单
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/2019040519245321.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQxMzE4NDAw,size_16,color_FFFFFF,t_70)
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190405192349418.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQxMzE4NDAw,size_16,color_FFFFFF,t_70)
-
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190405192508383.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQxMzE4NDAw,size_16,color_FFFFFF,t_70)
+![在这里插入图片描述](Screenrecorder-2019-04-24-22-31-48-801.mp4）
 
 欢迎下载
 https://github.com/kurumi2501314/demo/blob/master/demo.apk
